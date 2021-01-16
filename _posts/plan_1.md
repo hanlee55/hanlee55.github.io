@@ -4,3 +4,5 @@
 2. logic
 3. code
 4. (daily)logging
+
+>011721
