@@ -3,3 +3,4 @@
 자바속 html
 ## jsp
 html속 자바(servlet)
+## How to open server
