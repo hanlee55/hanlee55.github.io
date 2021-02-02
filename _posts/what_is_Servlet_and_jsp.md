@@ -4,3 +4,4 @@
 ## jsp
 html속 자바(servlet)
 ## How to open server
+- post at 020421
